@@ -1,0 +1,10 @@
+# Virtual environment
+venv/
+
+# Python cache and build artifacts
+__pycache__/
+*.py[cod]
+build/
+dist/
+*.spec.bak
+temp_export.png
